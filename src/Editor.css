@@ -1,0 +1,16 @@
+html,
+body,
+#root {
+  height: 100%;
+  background: #F9FBFC;
+}
+
+#root {
+  padding: 1rem;
+}
+
+/* Overrides for Draft Editor */
+
+.DraftEditor-root {
+  height: 100%;
+}
